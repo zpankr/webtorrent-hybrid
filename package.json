@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "create-torrent": "^3.23.1",
-    "electron-webrtc": "^0.3.0",
-    "webtorrent": "0.x",
+    "electron-webrtc": "git+https://github.com/kevinejohn/electron-webrtc.git",
+    "webtorrent": "latest",
     "webtorrent-cli": "^1.0.1"
   },
   "devDependencies": {
